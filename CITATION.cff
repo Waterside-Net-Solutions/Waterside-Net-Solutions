@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you reference this framework, please cite it as below and include the version number."
+title: "Coordination Control Loop Framework (CCL-F)"
+authors:
+  - family-names: "Landry"
+    given-names: "Morgan"
+    affiliation: "Waterside Net Solutions"
+version: "0.1"
+date-released: 2026-06-09
+license: CC-BY-NC-ND-4.0
+doi: 10.5281/zenodo.XXXXXXX
+type: software
+abstract: "A formal model of the organizational commitment layer: the process by which known safety signals are either converted into evidence-based, executable decisions or lost before irreversible execution. CCL-F distinguishes coordination failure from coordination non-instantiation, formalizes closure quality, and defines runtime-detectable indicators of revision rigidity and trajectory lock."
+keywords:
+  - organizational safety
+  - coordination
+  - sociotechnical systems
+  - systems safety
+  - STAMP
+  - safety engineering
